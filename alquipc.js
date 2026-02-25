@@ -25,7 +25,7 @@ function DentroCiudad() {
 
                 localStorage.setItem("total", recibo);
                 
-                window.location.href = "Gracias.html";
+                window.location.href = "factura.html";
         }else {
 
             alert("Debes de Alquilar minimo 2 computadores")
@@ -62,7 +62,7 @@ function FueraCiudad() {
 
             localStorage.setItem("total", recibo);
 
-            window.location.href = "Gracias.html";
+            window.location.href = "factura.html";
 
         } else {
             alert("Debes alquilar mínimo 2 computadores");
@@ -102,7 +102,7 @@ function DentroEstablecimiento() {
 
             localStorage.setItem("total", recibo);
 
-            window.location.href = "Gracias.html";
+            window.location.href = "factura.html";
 
         } else {
             alert("Debes alquilar mínimo 2 computadores");
