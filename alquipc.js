@@ -191,3 +191,7 @@ function DiasAdicionales() {
         }
     }
 }
+
+function volver() {
+    window.location.href = "index.html";
+}
