@@ -120,8 +120,9 @@ footer a:hover {
     border: none;
     background-color: red;
     height: 5vh;
-    width: 30%;
+    width: 10%;
     text-decoration: none;
+    border-radius: 20px;
 }
 
 .volver:hover {
