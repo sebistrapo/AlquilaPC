@@ -129,3 +129,8 @@ footer a:hover {
     background-color: darkred;
     color: white;
 }
+
+.volver a {
+    height: 100%;
+    width: 100%;
+}
