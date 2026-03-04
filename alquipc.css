@@ -121,6 +121,7 @@ footer a:hover {
     background-color: red;
     height: 5vh;
     width: 50%;
+    text-decoration: none;
 }
 
 .volver:hover {
