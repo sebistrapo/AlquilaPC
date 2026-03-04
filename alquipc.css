@@ -115,3 +115,13 @@ footer a:hover {
 #formulario1 h1, #formulario1 h3 {
     color: white;
 }
+
+.volver {
+    border: none;
+    background-color: red;
+}
+
+.volver:hover {
+    background-color: darkred;
+    color: white;
+}
