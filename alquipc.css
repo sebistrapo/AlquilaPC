@@ -90,15 +90,16 @@ footer a:hover {
     left: 25%;
     width: 50%; 
     height: 25vh;
-    background-color: rgb(134, 134, 236);
-    display: flex;
+    background-color: lightskyblue;
+    display: flex;  
+    border: 4px solid rgb(221, 233, 237);
     align-items: center;    
     text-align: center;
 }
 
 #formulario1 button {
     margin-top: 10vh;
-    background-color: lightseagreen;
+    background-color: lightblue;
     color: white;
     width: 20%;
     height: 10vh;
